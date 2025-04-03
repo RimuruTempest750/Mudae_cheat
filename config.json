@@ -1,0 +1,7 @@
+{
+    "token": "ACCOUNT_TOKEN",
+    "channelId": "CHANNEL_ID",
+    "BotID": "432610292342587392",
+    "timeClaim": 1500,
+    "_note": "timeClaim is the delay in milliseconds. For example, 1500 = 1.5 seconds. Set to 0 for no delay."
+}

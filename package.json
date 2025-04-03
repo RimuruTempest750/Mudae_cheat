@@ -1,0 +1,20 @@
+{
+  "name": "mudae_cheat",
+  "version": "1.0.0",
+  "description": "A selfbot for automating Mudae commands on Discord.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kurama250/Mudae_cheat.git"
+  },
+  "author": "github.com/Kurama250",
+  "license": "GNU General Public License v3.0",
+  "homepage": "https://github.com/Kurama250/Mudae_cheat#readme",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.4.2"
+  }
+}
