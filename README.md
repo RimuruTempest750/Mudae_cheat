@@ -24,7 +24,7 @@
 - Run command :
 
 ```shell script
-bash <(curl -s https://raw.githubusercontent.com/Mudae_cheat/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/RimuruTempest750/Mudae_cheat/main/setup.sh)
 ```
 <h5>B) Manual installer</h5>
 
